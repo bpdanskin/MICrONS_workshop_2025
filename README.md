@@ -1,11 +1,11 @@
-# MICrONS workshop for the CoNectome 2024 Conference
+# MICrONS workshop for NeuroAI Conference, 8 August 2024
 
-Offered in participation with the University of Washington Computational Neuroscience Center’s annual symposium, CoNectome (formerly NCEC). [See conference program and details here](https://compneuro.washington.edu/news-and-events/conectome-2024/)
+Offered in participation with the Neuroscience and Artificial Intelligence Conference at the University of Washington. [See conference program and details here](https://www.neuroaiseattle.com/))
 
-![Conectome-2024-cropped](https://github.com/sdorkenw/MICrONS_workshop/assets/18294371/89144368-6ea1-4ef6-8f48-c1a63f4f4952)
+![neuro-ai](https://github.com/user-attachments/assets/2e41f315-9db4-4099-b53d-16c5d2b092be)
 
 ## MICrONS dataset tutorial: Functional connectomics spanning multiple areas of mouse visual cortex
-Presented by Sven Dorkenwald, Bethanny Danskin, Forrest Collman and Casey Schneider-Mizell
+Presented by Bethanny Danskin and Casey Schneider-Mizell, with material from Sven Dorkenwald and Forrest Collman.
 
 The MICrONS dataset is a large functional connectomics dataset with dense calcium imaging and electron microscopy based cell reconstruction of a millimeter scale volume. All neurons were automatically reconstructed and all synapses detected. Subsequent proofreading in this volume yielded reconstructions that include complete dendritic trees for all ~70 thousand neurons as well the local and inter-areal axonal projections of a subset of neurons that map up to thousands of cell-to-cell connections per neuron. Functional measurements and connectivity can be related for ~12 thousand neurons which were coregistered between the calcium and EM volumes. In this tutorial, we introduce the dataset, as well as both interactive and programmatic tools to analyze it. The tutorial will contain exercises for hands on work and time to explore the dataset on your own laptop.   
 
