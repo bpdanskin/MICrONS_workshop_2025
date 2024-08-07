@@ -50,7 +50,7 @@ Follow the tutorial for [CAVE setup and quickstart here](https://alleninstitute.
 
 There are two options for following the tutorial and doing the exercises:
 1. Local: [Create a new conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) using Python 3.11 and `pip install caveclient` into it as well as your favorite notebook package (e.g. `pip install jupyter`).
-2. Online: Go to [colab.research.google](https://colab.research.google.com/github/AllenInstitute/MICrONS_workshop_neuroai2024/blob/main/tutorials/ProgrammaticAccess.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
+2. Online: Go to the `ProgrammaticAccess.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/AllenInstitute/MICrONS_workshop_neuroai2024/blob/main/tutorials/ProgrammaticAccess.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
 ### Dataset documentation
 
