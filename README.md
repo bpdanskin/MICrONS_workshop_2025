@@ -47,6 +47,8 @@ There are two options for following the tutorial and doing the exercises:
 1. Local: [Create a new conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) using Python 3.11 and `pip install caveclient` into it as well as your favorite notebook package (e.g. `pip install jupyter`).
 2. Online: Go to the `ProgrammaticAccessColab.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/AllenInstitute/MICrONS_workshop_neuroai2024/blob/main/tutorials/ProgrammaticAccessColab.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
+[Additional tools for programmatic access](https://docs.google.com/presentation/d/1sTDuqfxR1mvqd3uD9Lrq4yLMBwTC6H9UcbmtHG22yn0/edit?usp=sharing)
+
 #### Further reading relevant to the demonstration
 
 Cell Type Model: [Perisomatic Features Enable Efficient and Dataset Wide Cell-Type Classifications Across Large-Scale Electron Microscopy Volumes](https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2)
