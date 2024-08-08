@@ -14,31 +14,26 @@ Functional measurements and connectivity can be related for ~12 thousand neurons
 In this tutorial, we introduce the dataset, as well as both interactive and programmatic tools to analyze it.
 The tutorial will contain exercises for hands on work and time to explore the dataset on your own laptop.   
 
-Manuscript describing the dataset: https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3.abstract
+Manuscript describing the dataset: [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3.abstract)
 
 ### Dataset introduction
 
 #### Slides
 
-Introductory presentation: https://docs.google.com/presentation/d/1gEOZAE9B-IlOkxbOEulgOgTp0XWfhbtk__Ve3Cjvc64/edit?usp=sharing
+Introductory presentation: [MICrONS Overview 2024](https://docs.google.com/presentation/d/14QBz8wXxm8ubIoGiYYQGwlPiM0bBJgpH-eOxlLS3toQ/edit?usp=sharing)
 
-#### Papers
 
-Cell Type Model: https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2
+#### Neuroglancer: data visualization and exploration
 
-Inhibitory Connectivity: https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3
+Click on the links below to view the prepared neuroglancer states for the walk through. **Use any google profile to login when prompted.**
 
-CAVE Infrastructure: https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1
+1. Neuroglancer introduction: [navigation and fundamentals](https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/6541269837807616)
+2. Neuroglancer advanced: [view multiple cells and segment properties](https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5449595451604992)
+3. Neuroglancer annotations: [make and export notes as you work](https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5100449909702656)
 
-### Neuroglancer: data visualization and exploration
+More curated neuroglancer examples available at [the MICrONS Explorer Gallery](https://www.microns-explorer.org/gallery-mm3)
 
-Launch the viewer with preselected interesting states from the [MICrONs-Explorer Gallery page](https://www.microns-explorer.org/gallery-mm3 ).
-
-Launch a [neuroglancer viewer](https://neuroglancer.neuvue.io/?json_url=https://global.daf-apis.com/nglstate/api/v1/5773646117208064) of the updated public dataset.
-
-Launch a [beta] [spelunker neuroglancer viewer](https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/4954638937751552) of the updated public dataset.
-
-### DashApps: interactive online analysis
+#### DashApps: interactive online analysis
 
 Browse the data tables, such as cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?datastack=%22minnie65_public%22).
 
@@ -51,6 +46,14 @@ Follow the tutorial for [CAVE setup and quickstart here](https://alleninstitute.
 There are two options for following the tutorial and doing the exercises:
 1. Local: [Create a new conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) using Python 3.11 and `pip install caveclient` into it as well as your favorite notebook package (e.g. `pip install jupyter`).
 2. Online: Go to the `ProgrammaticAccess.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/AllenInstitute/MICrONS_workshop_neuroai2024/blob/main/tutorials/ProgrammaticAccess.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
+
+#### Further reading relevant to the demonstration
+
+Cell Type Model: [Perisomatic Features Enable Efficient and Dataset Wide Cell-Type Classifications Across Large-Scale Electron Microscopy Volumes](https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2)
+
+Inhibitory Connectivity: [Cell-type-specific inhibitory circuitry from a connectomic census of mouse visual cortex](https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3)
+
+Data Infrastructure: [CAVE: Connectome Annotation Versioning Engine](https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1)
 
 ### Dataset documentation
 
