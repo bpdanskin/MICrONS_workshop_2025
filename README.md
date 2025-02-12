@@ -1,14 +1,14 @@
-# MICrONS workshop for NeuroAI Conference, 8 August 2024
+# MICrONS workshop: Brain Stimulation at the Microscopic Scale, 23 February 2025
 
-Offered in participation with the Neuroscience and Artificial Intelligence Conference at the University of Washington. [See conference program and details here](https://www.neuroaiseattle.com/))
+Offered in participation with __The 6th International Brain Stimulation Conference in Kobe Japan__. [See conference program and details here](https://neuromodec.org/events/brain-stimulation-at-the-microscopic-scale-multiscale-models-and-cellular-studies-february-2025/)
 
-![neuro-ai](https://github.com/user-attachments/assets/2e41f315-9db4-4099-b53d-16c5d2b092be)
+![image](https://github.com/user-attachments/assets/fefdf6a7-1fbc-4640-b22e-7ba3d46857a7)
+
 
 ## MICrONS dataset tutorial: Functional connectomics spanning multiple areas of mouse visual cortex
-Presented by Bethanny Danskin and Casey Schneider-Mizell.
+Presented by Bethanny Danskin
 
-The MICrONS dataset is a large functional connectomics dataset with dense calcium imaging and electron microscopy based cell reconstruction of a millimeter scale volume.
-All neurons were automatically reconstructed and all synapses detected.
+The MICrONS dataset is a large functional connectomics dataset with dense calcium imaging and electron microscopy based cell reconstruction over one cubic millimeter of mouse visual cortex. All neurons were automatically reconstructed and all synapses detected.
 Subsequent proofreading in this volume yielded reconstructions that include complete dendritic trees for all ~70 thousand neurons as well the local and inter-areal axonal projections of a subset of neurons that map up to thousands of cell-to-cell connections per neuron.
 Functional measurements and connectivity can be related for ~12 thousand neurons which were coregistered between the calcium and EM volumes.
 In this tutorial, we introduce the dataset, as well as both interactive and programmatic tools to analyze it.
@@ -17,11 +17,6 @@ The tutorial will contain exercises for hands on work and time to explore the da
 Manuscript describing the dataset: [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3.abstract)
 
 ### Dataset introduction
-
-#### Slides
-
-Introductory presentation: [MICrONS Overview 2024](https://docs.google.com/presentation/d/14QBz8wXxm8ubIoGiYYQGwlPiM0bBJgpH-eOxlLS3toQ/edit?usp=sharing)
-
 
 #### Neuroglancer: data visualization and exploration
 
@@ -59,5 +54,5 @@ More complete documentation that includes the above information as well as guide
 
 ### Credits
 
-Tutorial material by Bethanny Danskin, Casey Schneider-Mizell, Sven Dorkenwald and Forrest Collman.
+Tutorial material prepared by Bethanny Danskin, Casey Schneider-Mizell, Sven Dorkenwald and Forrest Collman.
 Full MICrONs project credits can be found at [MICrONs Explorer](https://www.microns-explorer.org).
