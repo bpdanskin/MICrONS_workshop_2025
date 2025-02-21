@@ -26,9 +26,9 @@ Manuscript describing the dataset: [Functional connectomics spanning multiple ar
 This repository includes curated Data Access examples and tutorials. To work in your local environment, clone the repo and create a new virtual environment withe the _environment_microns2025.yml_ file. 
 
 Aleternately, you can run each notebook in __Google Colab__ by accessing the github urls, or clicking the following links:
-1. [Programmatic Access](https://colab.research.google.com/github/https://github.com/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/ProgrammaticAccess_colab.ipynb)
-2. [Downloading Meshes](https://colab.research.google.com/github/https://github.com/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/MeshAccess_colab.ipynb)
-3. [Downloading Skeletons](https://colab.research.google.com/github/https://github.com/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/SkeletonAccess_colab.ipynb)
+1. [Programmatic Access](https://colab.research.google.com/github/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/ProgrammaticAccess_colab.ipynb)
+2. [Downloading Meshes](https://colab.research.google.com/github/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/MeshAccess_colab.ipynb)
+3. [Downloading Skeletons](https://colab.research.google.com/github/bpdanskin/MICrONS_workshop_2025/blob/main/tutorials_colab/SkeletonAccess_colab.ipynb)
 
 (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
